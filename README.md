@@ -1,3 +1,3 @@
 # I am practicing
-This about RAG using LangChain
+This is about RAG using LangChain
 Everything is hands-on.
